@@ -1,3 +1,8 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0%;
+}
+
 #top-background {
     background-image: url("picture/images/donation7.jpg");
     width: 100%;
