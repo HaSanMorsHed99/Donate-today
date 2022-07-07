@@ -28,8 +28,6 @@ section {
     padding-top: 5%;
     padding-right: 25%;
     font-size: 50px;
-
-
 }
 
 .p-text {
@@ -66,10 +64,18 @@ section {
 
 .amount {
     text-align: center;
-    padding: 1%;
-    width: 16%;
+    margin: 2%;
+    padding: 2%;
+    width: 10%;
     float: left;
     border-radius: 5px;
+    background-color: darkkhaki;
+}
+
+#amountarea {
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 100px;
 }
 
 .hname {
@@ -86,6 +92,7 @@ section {
 
 #fast-input {
     text-align: center;
+    margin-left: 660px;
     border: 0;
     border-bottom: 1px solid cornflowerblue;
     outline: 0;
@@ -152,7 +159,7 @@ h4 {
     text-align: center;
 }
 
-span {
+b {
     font-size: 30px;
     color: chartreuse;
 }
